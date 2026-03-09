@@ -1,4 +1,4 @@
-# Bank Management System
+# Bank Management System 
 
 A full-featured Python-based banking system with separate **Admin** and **User** web portals. Includes support for account management, transactions, fixed deposits, loan applications, and integrated email notifications using Gmail SMTP.
 
